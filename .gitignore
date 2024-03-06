@@ -3,3 +3,5 @@ coverage
 
 # Dependency directories
 node_modules/
+
+src/Development.postman_collection.json
